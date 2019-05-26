@@ -7,8 +7,13 @@ Output can then be used for portscans etc.
 ## Usage
 fransRecon.py example.com
 
+![alt text](https://i.imgur.com/sba5giB.png "fransRecon")
+
+
+Note that this could take a *long time* to run for big domains.
+
 ## Install
-Should have to be run from in sublist3r folder.
+Should have to be run from in Sublist3r folder.
 Easiest is to clone this GIT and then clone sublist3r into the same folder.
 Enure you also have DIG installed.
 
