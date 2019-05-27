@@ -4,6 +4,13 @@ Each horziontal domain will then be vertically enumerated using Sublist3r.
 
 Output can then be used for portscans etc.
 
+*Horizontal enumeration:*
+- On company registrar name
+- On domain name provided
+
+*Vertical enumeration:*
+- On all the domains found during horizontal enumeration
+
 ## Usage
 fransRecon.py example.com
 
