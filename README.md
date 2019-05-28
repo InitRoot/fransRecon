@@ -22,7 +22,10 @@ Note that this could take a *long time* to run for big domains.
 ## Install
 Should have to be run from in Sublist3r folder.
 Easiest is to clone this GIT and then clone sublist3r into the same folder.
-Enure you also have DIG installed.
+
+For python the following needs to be installed.
+
+pip install pandas
 
 The folder structure is as follow once installed:
 ```
