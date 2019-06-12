@@ -24,9 +24,10 @@ Should have to be run from in Sublist3r folder.
 Easiest is to clone this GIT and then clone sublist3r into the same folder.
 
 For python the following needs to be installed.
-
+```
 pip install pandas
-
+pip install click 
+```
 The folder structure is as follow once installed:
 ```
  ✘ ⚡ root@pentest  ~/Tools/fransRecon  ls -la
