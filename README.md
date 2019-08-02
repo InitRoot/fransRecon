@@ -1,3 +1,6 @@
+##  Disclaimer
+I take not responsibility for your use of the software. Development is done in my personal capacity and carry no affiliation to my work.
+
 # fransRecon
 Script will enumerate domain name using horizontal enumeration, reverse lookup.
 Each horziontal domain will then be vertically enumerated using Sublist3r.
